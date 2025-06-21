@@ -1,5 +1,5 @@
 //変数numにランダムな整数を代入//
-let num = Math.floor(Math.random()*16);
+let num = Math.floor(Math.random() * 15) + 1;
 
 //変数numの値を出力//
 console.log(num);
